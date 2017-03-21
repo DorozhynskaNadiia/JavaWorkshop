@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SimpleTest" duration-ms="11521" started-at="2017-02-13T20:00:16Z" finished-at="2017-02-13T20:00:27Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="11521" started-at="2017-02-13T20:00:16Z" finished-at="2017-02-13T20:00:27Z">
+      <class name="SimpleTest">
+        <test-method status="PASS" signature="beforeAllClass()[pri:0, instance:SimpleTest@180bc464]" name="beforeAllClass" is-config="true" duration-ms="2803" started-at="2017-02-13T22:00:16Z" finished-at="2017-02-13T22:00:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllClass -->
+        <test-method status="PASS" signature="beforeEachMethod()[pri:0, instance:SimpleTest@180bc464]" name="beforeEachMethod" is-config="true" duration-ms="7520" started-at="2017-02-13T22:00:19Z" finished-at="2017-02-13T22:00:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachMethod -->
+        <test-method status="PASS" signature="firstTest()[pri:0, instance:SimpleTest@180bc464]" name="firstTest" duration-ms="239" started-at="2017-02-13T22:00:26Z" finished-at="2017-02-13T22:00:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="afterAllClass()[pri:0, instance:SimpleTest@180bc464]" name="afterAllClass" is-config="true" duration-ms="950" started-at="2017-02-13T22:00:27Z" finished-at="2017-02-13T22:00:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterAllClass -->
+      </class> <!-- SimpleTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- SimpleTest -->
+</testng-results>
