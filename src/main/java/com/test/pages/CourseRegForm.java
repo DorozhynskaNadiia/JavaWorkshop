@@ -1,9 +1,10 @@
 package com.test.pages;
 
 /**
- * Created by ndorozhynska on 2/13/2017.
+ * Created by dorozhynska on 2/13/2017.
  */
 
+import org.apache.xpath.operations.String;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
